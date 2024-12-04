@@ -1,2 +1,4 @@
-package Models;public class Actor {
+package Models;
+
+public class Actor {
 }
